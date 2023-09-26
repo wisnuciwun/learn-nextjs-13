@@ -1,4 +1,4 @@
-'use client'
+'use client' // use this to avoid error Client component error in browser, because next js not allowed us to use Server component.
 import React from 'react'
 
 const AddToCart = () => {
